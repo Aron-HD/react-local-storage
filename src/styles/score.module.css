@@ -1,0 +1,14 @@
+.team {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 200px;
+  margin: 0.5rem;
+}
+
+.score {
+  font-size: 76px;
+  color: gold;
+  border: 2px solid black;
+  border-radius: 25px;
+}
